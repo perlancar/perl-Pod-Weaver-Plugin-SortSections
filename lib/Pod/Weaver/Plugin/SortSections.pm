@@ -35,7 +35,7 @@ __PACKAGE__->meta->make_immutable;
 1;
 # ABSTRACT: Sort POD sections
 
-=for Pod::Coverage ^(finalize_document)$
+=for Pod::Coverage ^(finalize_document|mvp_multivalue_args)$
 
 =head1 SYNOPSIS
 
